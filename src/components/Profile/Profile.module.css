@@ -7,14 +7,14 @@
   padding: 20px;
   background-color: #f5f5f5;
   border-radius: 5px;
-  border: 2px solid rgb(9, 16, 110);
+  border: 2px solid rgb(101, 9, 110);
   margin-bottom: 40px;
   transition: all ease-in-out 0.3s;
 }
 
 .profile:hover,
 .profile:focus {
-  box-shadow: 0 0 30px 5px rgba(3, 110, 160, 0.5);
+  box-shadow: 0 0 30px 5px rgba(8, 160, 3, 0.753);
 }
 .description {
   text-align: center;
